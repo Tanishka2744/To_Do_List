@@ -46,7 +46,7 @@ Hi! I’m **Tanishka Khandelwal** 👩‍💻, a **Frontend Developer**.
 
 [🌐 Portfolio](https://tanishka-dev.vercel.app/)  
 [💼 LinkedIn](https://www.linkedin.com/in/tanishkakhandelwal122704)  
-[🐙 GitHub](https://github.com/Tanishka2744/To_Do_List)  
+[🐙 GitHub](https://github.com/Tanishka2744)  
 [📧 Email](mailto:tanishkakhandelwal00@gmail.com)
 
 ---
